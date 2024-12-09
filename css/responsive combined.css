@@ -1,0 +1,473 @@
+@media only screen and (min-width:320px) and (max-width:479px) {
+    
+    .sec-1 {
+    height: 500px;
+    background-image: url(../image/slider1.jpg);
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    position: relative;
+}
+    
+    .sec-1 h1 {
+    color: aqua;
+    padding-top: 200px;
+    padding-bottom: 10px;
+    font-size: 27px;
+}
+    
+    .sec-1 p {
+    color: white;
+    font-size: 12px;
+}
+    .btnA {
+    text-decoration: none;
+    background-color: aqua;
+    color: white;
+    padding: 4px 20px;
+    display: inline-block;
+    margin-top: 20px;
+    border-radius: 20px 20px;
+    box-shadow: 0px 0px 1px 1px white;
+    font-family: sans-serif;
+    font-size: 12px;
+}
+    .btnB {
+    text-decoration: none;
+    background-color: black;
+    color: white;
+    padding: 4px 20px;
+    display: inline-block;
+    margin-top: 20px;
+    border-radius: 20px 20px;
+    box-shadow: 0px 0px 1px 1px white;
+    font-family: sans-serif;
+    font-size: 12px;
+}
+    .sec-2 {
+    background-color: white;
+    text-align: center;
+    padding: 30px 30px;
+    font-family: 'Roboto', sans-serif;
+}
+    .sec-2 h1 {
+    margin-top: 30px;
+    padding-bottom: 15px;
+    color: aqua;
+    font-size: 20px;
+}
+    .sec-2 p {
+    font-size: 10px;
+    line-height: 1.5;
+}
+    .sec-3 {
+    background-color: white;
+    padding: 0px 50px;
+    overflow: hidden;
+    font-size: 13px;
+}
+   .sec3-left h1 {
+    margin-top: 10px;
+    padding-bottom: 15px;
+    font-size: 20px;
+}
+    .sec3-left p {
+    padding-bottom: 15px;
+    line-height: 1.5;
+    font-size: 10px;
+}
+    .btnE {
+    text-decoration: none;
+    background-color: aqua;
+    color: white;
+    padding: 4px 20px;
+    display: inline-block;
+    margin-top: 20px;
+    border-radius: 20px 20px;
+    box-shadow: 0px 0px 1px 1px white;
+    font-family: sans-serif;
+    font-size: 12px;
+}
+    .sec3-right img {
+    width: 100%;
+}
+    .sec-4 {
+    background-color: #fff;
+    padding: 10px 5px 10px 5px;
+}
+    .s3-nav i {
+    color: yellow;
+    font-size: 13px;
+}
+    .sec-4 h1 {
+    text-align: center;
+    font-size: 25px;
+}
+    .box-1 {
+    width: 87.3%;
+    height: 310px;
+    float: left;
+    text-align: center;
+    background-color: antiquewhite;
+    border: 1px solid grey;
+    box-sizing: border-box;
+    margin: 1% 1%;
+    padding: 45px 45px;
+    color: dimgrey;
+    margin-left: 20px;
+}
+    .btnC {
+    text-decoration: none;
+    background-color: aqua;
+    color: white;
+    padding: 4px 20px;
+    display: inline-block;
+    margin-top: 20px;
+    box-shadow: 1px 1px 1px 1px grey;
+    font-family: sans-serif;
+    font-size: 15px;
+}
+    .sec-5 h1 {
+    color: white;
+    padding-top: 50px 20px 50px 20px;
+    padding: 80px 15px 50px 15px;
+    font-size: 28px;
+}
+    .btnD {
+    text-decoration: none;
+    background-color: aqua;
+    color: white;
+    padding: 5px 20px;
+    display: inline-block;
+    margin-top: 0px;
+    box-shadow: 1px 1px 1px 1px grey;
+    font-family: sans-serif;
+    font-size: 13px;
+}
+    .box-2 {
+    width: 80.3%;
+    float: left;
+    text-align: center;
+    box-sizing: border-box;
+    margin: 1% 1%;
+    color: black;
+    margin-left: 20px;
+}
+    .btnF {
+    text-decoration: none;
+    background-color: white;
+    font-size: 15px;
+    padding: 4px 20px;
+    display: inline-block;
+    margin-top: 5px;
+    border-radius: 20px 20px;
+    box-shadow: 0px 0px 0px 3px cyan;
+    color: black;
+    margin-bottom: 40px;
+    font-family: sans-serif;
+}
+    .sec-7 h1 {
+    text-align: center;
+    padding-bottom: 30px;
+    font-size: 27px;
+}
+    .sec-7 p {
+    text-align: center;
+    padding: 0px 35px 30px 35px;
+    font-size: 13px;
+}
+    .sec-7 h3 {
+    text-align: center;
+    padding-bottom: 50px;
+    font-size: 15px;
+}
+    .sec-8 {
+    text-align: center;
+    color: white;
+    background-color: black;
+    padding: 10px 0px;
+    font-size: 10px;
+}
+    .sec-6 h1 {
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 25px;
+}
+    .sec-5 {
+    height: 200px;
+    background-image: url(../image/bg-section-traveler.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    background-attachment: fixed;
+    
+ }
+    .sec-5 h1 {
+    color: white;
+    padding-top: 50px 20px 50px 20px;
+    padding: 80px 15px 15px 15px;
+    font-size: 28px;
+}
+}
+
+@media only screen and (min-width:480px) and (max-width:766px) {
+    
+    .sec-1 {
+    height: 550px;
+    background-image: url(../image/slider1.jpg);
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    position: relative;
+}
+    
+    .sec-1 h1 {
+    color: aqua;
+    padding-top: 230px;
+    padding-bottom: 10px;
+    font-size: 40px;
+}
+    .sec-1 p {
+    color: white;
+    font-size: 15px;
+}
+    .btnA {
+    text-decoration: none;
+    background-color: aqua;
+    color: white;
+    padding: 4px 20px;
+    display: inline-block;
+    margin-top: 20px;
+    border-radius: 20px 20px;
+    box-shadow: 0px 0px 1px 1px white;
+    font-family: sans-serif;
+    font-size: 15px;
+}
+    .btnB {
+    font-size: 15px;
+    text-decoration: none;
+    background-color: black;
+    color: white;
+    padding: 4px 20px;
+    display: inline-block;
+    margin-top: 20px;
+    border-radius: 20px 20px;
+    box-shadow: 0px 0px 1px 1px white;
+    font-family: sans-serif;
+}
+    .sec-2 h1 {
+    margin-top: 30px;
+    padding-bottom: 15px;
+    color: aqua;
+    font-size: 20px;
+}
+    .sec-2 p {
+    font-size: 10px;
+    line-height: 1.5;
+}
+    .sec3-left h1 {
+    margin-top: 10px;
+    padding-bottom: 15px;
+    font-size: 20px;
+}
+ .sec-3 {
+    background-color: white;
+    padding: 0px 60px;
+    overflow: hidden;
+}
+    .sec3-left p {
+    padding-bottom: 15px;
+    line-height: 1.3;
+    font-size: 13px;
+}
+    .s3-nav {
+    list-style: none;
+    font-size: 13px;
+}
+    .sec3-right img {
+    width: 100%;
+}
+    .btnE {
+    text-decoration: none;
+    background-color: aqua;
+    color: white;
+    padding: 4px 20px;
+    display: inline-block;
+    margin-top: 20px;
+    border-radius: 20px 20px;
+    box-shadow: 0px 0px 1px 1px white;
+    font-family: sans-serif;
+    margin-bottom: 20px;
+    font-size: 13px;
+}
+    .sec-4 h1 {
+    text-align: center;
+    font-size: 25px;
+    padding-bottom: 10px;
+}
+    .box-1 {
+    width: 90.3%;
+    float: left;
+    text-align: center;
+    background-color: antiquewhite;
+    border: 1px solid grey;
+    box-sizing: border-box;
+    margin: 1% 1%;
+    padding: 40px;
+    color: dimgrey;
+    margin-left: 10px;
+    margin-bottom: 10px
+}
+    .btnC {
+    text-decoration: none;
+    background-color: aqua;
+    color: white;
+    padding: 4px 20px;
+    display: inline-block;
+    margin-top: 20px;
+    box-shadow: 1px 1px 1px 1px grey;
+    font-family: sans-serif;
+}
+    .btnD {
+    text-decoration: none;
+    background-color: aqua;
+    color: white;
+    padding: 4px 20px;
+    display: inline-block;
+    margin-top: 20px;
+    box-shadow: 1px 1px 1px 1px grey;
+    font-family: sans-serif;
+}
+    .box-2 {
+    width: 90.3%;
+    float: left;
+    text-align: center;
+    box-sizing: border-box;
+    margin: 1% 1%;
+    color: black;
+    margin-left: 20px;
+}
+    
+
+.btnF {
+    text-decoration: none;
+    background-color: white;
+    padding: 4px 20px;
+    display: inline-block;
+    margin-top: 10px;
+    border-radius: 20px 20px;
+    box-shadow: 0px 0px 0px 3px cyan;
+    color: black;
+    margin-bottom: 60px;
+    font-family: sans-serif;
+    font-size: 15px;
+}
+    .sec-7 p {
+    text-align: center;
+    padding: 0px 50px 20px 50px;
+    font-size: 13px;
+}
+    .sec-8 {
+    text-align: center;
+    color: white;
+    background-color: black;
+    padding: 10px 0px;
+}
+    .sec-8 {
+    text-align: center;
+    color: white;
+    background-color: black;
+    padding: 10px 0px;
+}
+}
+ 
+@media only screen and (min-width:767px) and (max-width:990px){
+    .sec-3 {
+    background-color: white;
+    padding: 0px 100px;
+    overflow: hidden;
+}
+    .sec-4 h1 {
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+    .box-1 {
+    width: 28.3%;
+    height: 290px;
+    float: left;
+    text-align: center;
+    background-color: antiquewhite;
+    border: 1px solid grey;
+    box-sizing: border-box;
+    margin: 1% 1%;
+    padding: 20px 10px;
+    color: dimgrey;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+    .box-2 {
+    width: 28.3%;
+    float: left;
+    text-align: center;
+    box-sizing: border-box;
+    margin: 1% 1%;
+    color: black;
+    margin-left: 20px;
+}
+   
+}
+    
+@media only screen and (min-width:991px) and (max-width: 1199px) {
+    
+    .sec-4 h1 {
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20p;
+    margin-bottom: 20px;
+}
+    .sec3-right img {
+    width: 100%;
+}
+    .box-1 {
+    width: 29.3%;
+    height: 320px;
+    float: left;
+    text-align: center;
+    background-color: antiquewhite;
+    border: 1px solid grey;
+    box-sizing: border-box;
+    margin: 1% 1%;
+    padding: 45px 45px;
+    color: dimgrey;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+    .box-2 {
+    width: 29.3%;
+    float: left;
+    text-align: center;
+    box-sizing: border-box;
+    margin: 1% 1%;
+    color: black;
+    margin-left: 20px;
+}
+}
+    
+@media only screen and (min-width: 1200px) {
+    
+    .sec3-right img {
+    width: 95%;
+}
+    .sec-4 h1 {
+    text-align: center;
+    padding-bottom: 5px;
+}
+    .s4-top, .s4-bottom {
+    overflow: hidden;
+    margin-bottom: 19px;
+}
+    
+}

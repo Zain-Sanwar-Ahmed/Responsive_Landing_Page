@@ -1,0 +1,323 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.sec-1{
+    height: 600px;
+    background-image: url(../image/slider1.jpg);
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    position: relative; 
+}
+
+.sec-1-overlay{
+    background-color: rgba(0, 0, 0, 0.5);
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    width: 100%;
+    height: 100%;
+    
+}
+
+.sec-1 h1{
+    color: aqua;
+    padding-top: 250px;
+    padding-bottom: 10px;
+    font-size: 50px;
+}
+
+.sec-1 p{
+    color: white;
+    font-size: 25px;
+    
+}
+
+.btnA{
+    text-decoration: none;
+    background-color: aqua;
+    color: white;
+    padding: 8px 40px;
+    display: inline-block;
+    margin-top: 20px;
+    border-radius: 20px 20px;
+    box-shadow: 0px 0px 1px 1px white;
+    font-family: sans-serif;
+}
+
+.btnA:hover{
+    background-color: steelblue; 
+}
+
+.btnB{
+    text-decoration: none;
+    background-color: black;
+    color: white;
+    padding: 8px 40px;
+    display: inline-block;
+    margin-top: 20px;
+    border-radius: 20px 20px;
+    box-shadow: 0px 0px 1px 1px white;
+    font-family: sans-serif;
+}
+
+.btnB:hover{
+    background-color: steelblue; 
+}
+
+
+
+.sec-2{
+    background-color: white;
+    text-align: center;
+    padding: 50px 100px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.sec-2 h1{
+    margin-top: 30px;
+    padding-bottom: 15px;
+    color: aqua
+}
+
+.sec-2 p{
+    font-size: 15px;
+    line-height: 1.8;
+}
+
+
+
+.sec-3{
+    background-color: white;
+    padding: 0px 150px;
+    overflow: hidden;
+}
+
+.sec3-left{
+    width: 50%;
+    float: left;
+}
+
+.sec3-right{
+    width: 50%;
+    float: left;
+}
+
+.sec3-right img{
+    width: 90%;
+}
+
+.sec3-left h1{
+    margin-top: 10px;
+    padding-bottom: 15px;
+}
+
+.sec3-left p{
+    padding-bottom: 15px;
+    line-height: 1.8;
+}
+
+.s3-nav{
+    list-style: none;
+}
+
+.s3-nav i{
+    color: yellow;
+    font-size: 15px;
+}
+
+.btnE{
+    text-decoration: none;
+    background-color: aqua;
+    color: white;
+    padding: 8px 40px;
+    display: inline-block;
+    margin-top: 20px;
+    border-radius: 20px 20px;
+    box-shadow: 0px 0px 1px 1px white;
+    font-family: sans-serif;
+}
+
+.btnE:hover{
+    background-color: steelblue; 
+}
+
+
+
+.sec-4{
+    background-color: #fff; 
+    padding: 0px 50px 0px 60px;
+}
+
+.sec-4 h1{
+    text-align: center;
+}
+
+.box-1{
+    width: 30.3%;
+    float: left;
+    text-align: center;
+    background-color: antiquewhite;
+    border: 1px solid grey; 
+    box-sizing: border-box;
+    margin: 1% 1%;
+    padding: 45px 45px;
+    color: dimgrey;
+    margin-left: 20px;
+}
+
+.s4-top, .s4-bottom{
+    overflow: hidden;
+}
+
+.btnC{
+    text-decoration: none;
+    background-color: aqua;
+    color: white;
+    padding: 8px 40px;
+    display: inline-block;
+    margin-top: 20px;
+    box-shadow: 1px 1px 1px 1px grey;
+    font-family: sans-serif;
+}
+
+.btnC:hover{
+    background-color: steelblue; 
+}
+
+
+
+.sec-5{
+    height: 300px;
+    background-image: url(../image/bg-section-traveler.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    background-attachment: fixed;
+    
+    
+}
+
+.sec-5 h1{
+    color: white;
+    padding-top: 100px;
+}
+
+.btnD{
+    text-decoration: none;
+    background-color: aqua;
+    color: white;
+    padding: 8px 40px;
+    display: inline-block;
+    margin-top: 20px;
+    box-shadow: 1px 1px 1px 1px grey;
+    font-family: sans-serif;
+    
+}
+
+.btnD:hover{
+    background-color: steelblue; 
+}
+
+
+
+.sec-6{
+    background-color: #fff; 
+    padding: 0px 50px 0px 60px;
+    overflow: hidden;
+}
+
+.sec-6 h1{
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.box-2{
+    width: 30.3%;
+    float: left;
+    text-align: center; 
+    box-sizing: border-box;
+    margin: 1% 1%;
+    
+    color: black;
+    margin-left: 20px;
+    
+}
+
+.box-2 img{
+    width: 80%;
+    border: 5px solid aqua;
+    padding: 5px 5px;
+    
+        
+}
+
+.box-2 h2{
+    padding-top: 10px;
+}
+
+.box-2 h3{
+    padding-bottom: 10px;
+}
+
+.btnF{
+    text-decoration: none;
+    background-color: white;
+    padding: 8px 40px;
+    display: inline-block;
+    margin-top: 20px;
+    border-radius: 20px 20px;
+    box-shadow: 0px 0px 0px 3px aqua;
+    color: black;
+    margin-bottom: 80px;
+    font-family: sans-serif;
+}
+
+.btnF:hover{
+    background-color: steelblue; 
+}
+
+
+
+
+
+.sec-7{
+    background-color: white;
+    
+}
+
+.sec-7 h1{
+    text-align: center;
+    padding-bottom: 30px;
+}
+
+.sec-7 p{
+    text-align: center;
+    padding: 0px 100px 20px 100px; 
+}
+
+.sec-7 h3{
+    text-align: center;
+    padding-bottom: 50px;
+}
+
+
+
+
+.sec-8{
+    text-align: center;
+    color: white;
+    background-color: black;
+    padding: 20px 0px;
+        
+}
+
+
+
+
