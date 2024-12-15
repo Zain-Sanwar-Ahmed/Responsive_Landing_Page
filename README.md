@@ -1,2 +1,2 @@
 # Responsive_Landing_Page
-Created a responsive landing page using HTML, CSS and jQuery.
+Created a responsive landing page using HTML, CSS and Media Query.
